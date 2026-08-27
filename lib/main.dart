@@ -24,6 +24,7 @@ class Mesada extends StatefulWidget {
   State<Mesada> createState() => _MesadaState();
 }
 
+//vincula a variavel com o input
 class _MesadaState extends State<Mesada> {
   final TextEditingController mesadaController =
       TextEditingController();
